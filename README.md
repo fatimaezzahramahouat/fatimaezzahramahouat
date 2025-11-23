@@ -17,7 +17,7 @@ Toujours motivée par l'apprentissage et l’innovation.
 
 ## 🌐 Socials
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+  <a href="https://www.linkedin.com/in/fatima-ezzahra-mahouat/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   &nbsp;&nbsp;
