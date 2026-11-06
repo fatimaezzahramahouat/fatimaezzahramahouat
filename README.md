@@ -1,125 +1,36 @@
-# fatimaezzahramahouat
-<p align="center">
-  <img src="./github-header-banner.png" alt="Banner" />
-</p>
+# 🚀 Fatima Ezzahra Mahouat | Full Stack Developer & Cloud Engineer
 
-<h1 align="center">👩‍💻 FATIMA EZZAHRA MAHOUAT</h1>
-<h3 align="center">Full Stack Developer | Cloud Computing | DevOps</h3>
+Professional Full Stack Developer specialized in building secure, scalable, and production-ready applications. Deep focus on **Security Audit**, **Cloud Infrastructure (Azure)**, and **AI Integration**.
 
 ---
 
-## 🚀 About Me
-Développeuse passionnée spécialisée en **Full Stack**, **Cloud Azure** et **DevOps**.  
-Je maîtrise tout le cycle de vie d’une application : conception → développement → déploiement cloud → supervision.  
-Toujours motivée par l'apprentissage et l’innovation.
+### 🛠 Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) |
+| **Cloud & DevOps** | ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+| **Security** | `OWASP` • `IDOR Audit` • `JWT/RBAC` • `SMTP Hardening (SPF/DKIM/DMARC)` |
 
 ---
 
-## 🌐 Socials
-<p align="center">
-  <a href="https://www.linkedin.com/in/fatima-ezzahra-mahouat/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:fatimaezzahramahouat@gmail.com">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-  </a>
-</p>
+### 🎓 Certifications
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
 
 ---
 
-## 🛠️ Tech Stack
-
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="45" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" height="45" />
-</p>
-
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" height="45" />
-</p>
-
-### DevOps / Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,docker,bash,linux" height="45" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,webpack" height="45" />
-</p>
+### 🌟 Key Expertise
+- **Application Security:** Conducted manual access control audits, identifying and fixing critical IDOR vulnerabilities in multi-tenant environments.
+- **SaaS Architecture:** Designed and deployed AI-powered BPMS platforms (NexFlow) with complex role-based access control (RBAC).
+- **Performance Optimization:** Reduced database search time by 20% using query optimization and asynchronous workers.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatimaezzahramahouat&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fatimaezzahramahouat&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🔝 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatimaezzahramahouat&layout=compact&theme=tokyonight" height="160" />
-</p>
-
----
-
-## 🧑‍💼 Experience
-
-### 🔹 Stagiaire Full Stack — JobinTech (11/2025)
-- React · Node.js · API REST  
-- Base de données  
-- UI/UX  
-- Méthodes Agile  
-
-### 🔹 Stagiaire Informatique — Annexe Administrative (2024)
-- Mise à jour du site web  
-- Gestion de documents  
-- Accueil & support administratif  
-
-### 🔹 DevOps — CHU Mohammed VI (2023)
-- Application banque de sang  
-- Déploiement Azure  
-- Supervision réseau  
-
----
-
-## 🚀 Projects
-
-### 🔸 Application Banque de Sang  
-**Laravel · PHP · MySQL · Azure**  
-Développement et déploiement cloud.
-
-### 🔸 Application React  
-**React · JavaScript · API REST**  
-Interface moderne, state management, data fetching.
-
-### 🔸 API Node.js  
-**Node.js · Express · MongoDB**  
-API REST, authentification, CRUD.
-
-### 🔸 Site E-commerce  
-**HTML · CSS · JS · MySQL**  
-Panier, responsive design, gestion produits.
-
----
-
-## ⭐ Interests
-- Voyage  
-- Lecture  
-- Musique  
-- Design  
-- Innovation  
-
-<p align="center">✨ Merci de visiter mon profil ✨</p>
-
-
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-fatimaezzahramahouat-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/fatimaezzahramahouat)
+[![GitHub](https://img.shields.io/badge/GitHub-@fatimaezzahramahouat-black?style=flat-square&logo=github)](https://github.com/fatimaezzahramahouat)
+📧 [fatimaezzahramahouat@gmail.com](mailto:fatimaezzahramahouat@gmail.com)
