@@ -17,9 +17,9 @@ Professional Full Stack Developer specialized in building secure, scalable, and 
 ---
 
 ### 🎓 Certifications
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)**
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**
-- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- **Microsoft Certified: Azure Administrator Associate (AZ-104)** en cours
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** en cours
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)** en cours
 
 ---
 
